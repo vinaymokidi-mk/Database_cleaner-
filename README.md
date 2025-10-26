@@ -1,9 +1,6 @@
-# Database_cleaner-
-🚀 AI-powered Database Cleaner built with Python &amp; Flask that automatically detects and fixes messy data using Gemini LLM — outputs a fully cleaned database file ready for analysis
-
 # 🧹 DatabaseCleaner
 
-**DatabaseCleaner** is an AI-powered web application built with **Python Flask** that automatically cleans and standardizes messy database files (CSV, Excel, or SQL dumps).  
+is an AI-powered web application built with **Python Flask** that automatically cleans and standardizes messy database files (CSV, Excel, or SQL dumps).  
 It uses **Google Gemini LLM** to detect formatting issues, missing values, inconsistent data types, and duplicates — and outputs a fully cleaned, analysis-ready database file.
 
 ---
@@ -24,8 +21,8 @@ It uses **Google Gemini LLM** to detect formatting issues, missing values, incon
 - **Backend:** Python, Flask  
 - **AI Model:** Google Gemini LLM  
 - **Data Handling:** Pandas, SQLAlchemy  
-- **Frontend:** HTML, CSS (optional)  
-- **Environment:** Local or Cloud (e.g., Render, AWS EC2)
+- **Frontend:** HTML, CSS  
+- **Environment:** Local 
 
 ---
 
